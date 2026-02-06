@@ -72,6 +72,7 @@ W
  L
 Where η represents the Learning Rate.
 
+
 Getting Started
 Clone the repository:
 
@@ -82,7 +83,9 @@ Setup the environment:
 Bash
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
-# or
+
+or
+
 .\venv\Scripts\activate   # Windows
 Install dependencies:
 
