@@ -77,7 +77,7 @@ Getting Started
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/pytorch-math-fundamentals.git
+git clone https://github.com/WesleyRDM/pytorch-math-fundamentals.git
 Setup the environment:
 
 Bash
