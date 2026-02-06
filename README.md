@@ -10,7 +10,7 @@ Manual Optimization: Weight updates performed via Stochastic Gradient Descent (S
 
 Geometric Insight: Visualization of the decision boundary to demonstrate how non-linear activation functions transform the input space.
 
-📐 Mathematical Foundations
+Mathematical Foundations
 1. The Non-Linearity (Sigmoid)
 
 To solve non-linearly separable problems like XOR, we apply the Sigmoid activation function to map any real-valued number into the (0,1) interval:
@@ -95,8 +95,7 @@ Results & Visualization
 The model achieves 100% accuracy. The plot below illustrates how the hidden layer creates a non-linear decision boundary to separate the XOR classes:
 
 Tech Stack
-Python
 
-PyTorch (Tensors & Autograd)
-
-Matplotlib / Seaborn (Mathematical Visualization)
+- Python
+- PyTorch (Tensors & Autograd)
+- Matplotlib / Seaborn (Mathematical Visualization)
